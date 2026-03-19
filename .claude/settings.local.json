@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api:*)",
+      "Bash(gh search:*)",
+      "Bash(for pr:*)",
+      "Bash(do echo:*)",
+      "Bash(done)",
+      "Bash(git checkout:*)",
+      "Bash(gh pr:*)",
+      "Bash(git apply:*)"
+    ]
+  }
+}
